@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**iOmar26/iOmar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student (Year 2)  
+🔐 Interested in Cybersecurity & Ethical Hacking  
+🛠️ Currently learning: Git, Python, Linux  
+📌 Goals: Build real-world tools & contribute to open source
 
-Here are some ideas to get you started:
+## 🧰 Tools & Languages
+- Python, C++, Bash
+- Git & GitHub
+- TryHackMe | HackTheBox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
