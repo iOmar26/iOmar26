@@ -6,7 +6,7 @@
 📌 Goals: Build real-world tools & contribute to open source
 
 ## 🧰 Tools & Languages
-- Python, C++, Bash, HTML, CSS, Javascript, Jquery.
+- Python, C++, Bash, HTML, CSS, Javascript, jQuery.
 - Git & GitHub
 - TryHackMe | HackTheBox
 
